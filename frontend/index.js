@@ -6,7 +6,7 @@ import './styles/styles.css'
 
 render(
   <React.StrictMode>
-    <h1>Todo App AJAX</h1>
+    <h1>Todo App MP2S1U3</h1>
     <App />
   </React.StrictMode>
   , document.getElementById('root')
